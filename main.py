@@ -6,6 +6,7 @@ if __name__ == '__main__':
     chat = Chatbot()
     #carrega as bases gerais e especificas e prepara as informações para serem processadas
     #chat.dataset.treino = 10 --- delimita 10% das perguntas para fins de testes
+    chat.dataset.usar_base_especialista = False
     chat.dataset.carregar_bases()
     #método de treino
     chat.treinar()

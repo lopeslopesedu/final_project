@@ -193,6 +193,37 @@ class Data_set:
 
         self.pairs=[]
         print("")
+    def __carregar_base_geral_dialogpt(self):
+        """
+        Método utilizado para carregar a base de dados especialistas
+        Após carregar e organizar as informações
+        Salva os dados nos arquivos que serão utilizados posteriormente
+        Este método faz a separação dos dados de testes e salva em um arquivo a ser
+        utilizado posteriormente.
+        """
+        print("\n-*Carregando Base de Perguntas Especialistas*-")
+        arquivo = "base.csv"
+        with open(arquivo) as csv_file:
+            csv_reader = csv.reader(csv_file, delimiter=';')
+            for row in csv_reader:
+                self.pairs.append([row[0], row[1]])
+
+        base_teste = self.separar_treino_teste()
+
+        tipo_abertura_arquivo = "w"
+
+        print("->Gravando perguntas e respostas especialistas")
+        with open(self.datafile, tipo_abertura_arquivo, encoding='utf-8') as outputfile:
+            writer = csv.writer(outputfile, delimiter=self.delimiter, lineterminator='\n')
+            for pair in self.pairs:
+                writer.writerow(pair)
+
+        print("->Gravando perguntas e respostas especialistas para Testes posteriores")
+        with open(self.datafile_teste, tipo_abertura_arquivo, encoding='utf-8') as outputfile:
+            writer = csv.writer(outputfile, delimiter=self.delimiter, lineterminator='\n')
+            for pair in base_teste:
+                writer.writerow(pair)
+        del (base_teste)
     def __carregar_base_especialista(self):
         """
         Método utilizado para carregar a base de dados especialistas
@@ -227,6 +258,7 @@ class Data_set:
             for pair in base_teste:
                 writer.writerow(pair)
         del (base_teste)
+
     def carregar_base_testes(self):
         """
         Função utilizada para carregar as perguntas e respostas de testes
@@ -254,7 +286,8 @@ class Data_set:
         Por fim prepara os dados para processamento pelo modelo.
         """
         if self.usar_base_geral==True :
-            self.__carregar_base_geral()
+            #self.__carregar_base_geral()
+            self.__carregar_base_geral_dialogpt()
         if self.usar_base_especialista==True :
             self.__carregar_base_especialista()
         self.__carregar_dados_preparados()
