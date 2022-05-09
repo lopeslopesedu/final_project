@@ -15,6 +15,9 @@ from luongAttnDecoderRNN import LuongAttnDecoderRNN
 SOS_token = 1  # Start-of-sentence token
 MAX_LENGTH = 20  # Maximum sentence length to consider
 
+from nltk.translate import bleu_score
+from nltk.translate.bleu_score import sentence_bleu
+
 class Chatbot:
     def __init__(self):
         self.dataset = Data_set()
@@ -41,6 +44,10 @@ class Chatbot:
         self.learning_rate = 0.0001
         self.decoder_learning_ratio = 5.0
         self.n_iteration = 4000
+        self.avg_pontuacao_bleu = 0
+        self.pontuacao_bleu = []
+        self.resultados = []
+
 
     #Métodos privados de treinamento
     def __maskNLLLoss(self, inp, target, mask):
@@ -196,7 +203,7 @@ class Chatbot:
         """
         input_sentence = ''
         tamanho_base = len(base_testes)
-        resultados = []
+        self.resultados = []
         for i in tqdm(range(tamanho_base)):
             try:
                 #pergunta
@@ -209,15 +216,40 @@ class Chatbot:
                 output_words[:] = [x for x in output_words if not (x == 'EOS' or x == 'PAD')]
                 resposta = ""
                 resposta = " ".join([str(item) for item in output_words])
-                resultados.append("Question: "+ input_sentence)
-                resultados.append('T.I.A: ' + resposta)
-                resultados.append("Esperada: "+base_testes[i][1])
+                self.resultados.append("Question: "+ input_sentence)
+                self.resultados.append('T.I.A: ' + resposta)
+                self.resultados.append("Esperada: "+base_testes[i][1])
 
             except KeyError:
                 pass
                 #print("Error: Encountered unknown word.")
         #Salva o resultado no arquivo referente.
-        self.dataset.salvar_resultados(resultados)
+        self.dataset.salvar_resultados(self.resultados)
+
+
+    #Métodos de pontuação das repsostas
+
+    def __calcular_pontuacao_bleu(self,candidata, referencia):
+        return sentence_bleu(candidata, referencia,smoothing_function=bleu_score.SmoothingFunction(epsilon=1e-12).method2)
+
+    def __calcular_pontuacao_respostas(self):
+        i = 0
+        while(i<len(self.resultados)):
+            pergunta = self.resultados[i]
+            candidata = list(self.resultados[i+1].split())[1:]
+            referencia = list(self.resultados[i+2].split())[1:]
+            self.pontuacao_bleu.append(self.__calcular_pontuacao_bleu(candidata,referencia))
+            self.avg_pontuacao_bleu+=self.pontuacao_bleu[-1]
+            i+=3
+            print(candidata)
+            print(referencia)
+            print(self.pontuacao_bleu[-1])
+        #print avg
+
+        print("A pontuação média Bleu foi de: " + str(self.avg_pontuacao_bleu/len(self.pontuacao_bleu)))
+
+
+
 
     #Métodos Públicos
     def treinar(self):
@@ -279,3 +311,4 @@ class Chatbot:
         self.searcher = GreedySearchDecoder(self.encoder, self.decoder)
         print("Interação Automatizada com Chatbot TIA")
         self.__avaliar_questoes_testes(pairs)
+        self.__calcular_pontuacao_respostas()

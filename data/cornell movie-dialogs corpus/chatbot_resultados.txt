@@ -1,5 +1,5 @@
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -17,7 +17,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -29,7 +29,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -38,13 +38,13 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: terrible .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love blue .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -59,13 +59,13 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love green .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -74,13 +74,13 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: awesome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love blue .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -92,19 +92,19 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love brown .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -116,34 +116,34 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in seattle .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -155,19 +155,19 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -176,7 +176,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -188,10 +188,10 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -209,7 +209,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -221,13 +221,13 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -236,22 +236,22 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a lawyer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -263,7 +263,7 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -278,16 +278,16 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -296,7 +296,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love pink .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -308,10 +308,10 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: awesome .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -326,13 +326,13 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -344,7 +344,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -365,10 +365,10 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -377,7 +377,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -386,7 +386,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -413,7 +413,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love green .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -425,22 +425,22 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a lawyer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -449,7 +449,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -464,22 +464,22 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -491,10 +491,10 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -515,7 +515,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love pink .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -524,19 +524,19 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -554,10 +554,10 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a engineer .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -566,10 +566,10 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a engineer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -578,22 +578,22 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -602,13 +602,13 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: awesome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -617,7 +617,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -626,25 +626,25 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love yellow .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: awesome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a lawyer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -662,13 +662,13 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -677,16 +677,16 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -698,7 +698,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -725,16 +725,16 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -746,7 +746,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love yellow .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -767,37 +767,37 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
+Esperada: years old .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: how old are you ?
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -806,7 +806,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love brown .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -821,7 +821,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -830,7 +830,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: terrible .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -845,13 +845,13 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -863,10 +863,10 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -875,10 +875,10 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -890,7 +890,7 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -902,22 +902,22 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -926,28 +926,28 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love yellow .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: terrible .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in seattle .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -968,16 +968,16 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a lawyer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -989,7 +989,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: terrible .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1001,37 +1001,37 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -1046,19 +1046,19 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in paris .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in seattle .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love green .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1076,16 +1076,16 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a engineer .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1100,22 +1100,22 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a lawyer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a engineer .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -1124,7 +1124,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1133,7 +1133,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1154,16 +1154,16 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love brown .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1175,10 +1175,10 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1190,7 +1190,7 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1199,7 +1199,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1211,7 +1211,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1220,7 +1220,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love pink .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1232,10 +1232,10 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -1250,7 +1250,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love pink .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1259,10 +1259,10 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love blue .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1274,16 +1274,16 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love yellow .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love yellow .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1310,28 +1310,28 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in seattle .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1346,22 +1346,22 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love pink .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love brown .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1373,10 +1373,10 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1385,7 +1385,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1393,159 +1393,159 @@ Esperada: i am a admin .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: good .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love green .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in paris .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a lawyer .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in rome .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in boston .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a lawyer .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: great .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: great .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love brown .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: great .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in miami .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a lawyer .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: terrible .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: good .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: good .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love pink .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in miami .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in boston .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love yellow .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: awesome .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in seattle .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love green .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in paris .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a lawyer .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in rome .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in boston .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a lawyer .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: great .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: great .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love brown .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: great .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in miami .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a lawyer .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: terrible .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: good .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: good .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love pink .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in miami .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in boston .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love yellow .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: awesome .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in seattle .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: good .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love green .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
@@ -1556,10 +1556,10 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1571,13 +1571,13 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -1589,16 +1589,16 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1607,16 +1607,16 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -1634,7 +1634,7 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a engineer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1646,7 +1646,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1658,13 +1658,13 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1673,7 +1673,7 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a engineer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1688,22 +1688,22 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love green .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love blue .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1721,7 +1721,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1745,22 +1745,22 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love green .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1769,7 +1769,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1778,13 +1778,13 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love brown .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1820,7 +1820,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1829,10 +1829,10 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -1844,28 +1844,28 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love brown .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1883,7 +1883,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -1892,7 +1892,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -1907,10 +1907,10 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1922,10 +1922,10 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1961,13 +1961,13 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in seattle .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -1976,16 +1976,16 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a lawyer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -1994,7 +1994,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2006,19 +2006,19 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love pink .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2030,10 +2030,10 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2048,7 +2048,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in paris .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2057,37 +2057,37 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in paris .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love pink .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a engineer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2096,7 +2096,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2108,19 +2108,19 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in seattle .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2129,7 +2129,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -2138,473 +2138,8 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a lawyer .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: awesome .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a engineer .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: good .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love pink .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: awesome .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a lawyer .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: terrible .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love yellow .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in rome .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love blue .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in miami .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in paris .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love yellow .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love yellow .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in barcelona .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: terrible .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in paris .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in miami .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in boston .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in seattle .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in miami .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in boston .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in seattle .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love brown .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a lawyer .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in boston .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love pink .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in rome .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love brown .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in seattle .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love pink .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: good .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in paris .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love blue .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in madrid .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in seattle .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love brown .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: great .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in madrid .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in barcelona .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: terrible .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in madrid .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: good .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a engineer .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: great .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in barcelona .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love brown .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love green .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: terrible .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: good .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in barcelona .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love yellow .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in miami .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in barcelona .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in miami .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love yellow .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: great .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: awesome .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a engineer .
-Question: what is your favorite color ?
-T.I.A: i love red . . .
-Esperada: i love red .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: great .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in london .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in boston .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in rome .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: how old are you ?
-T.I.A: years old . . years old
-Esperada: years old .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in seattle .
-Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
-Esperada: dollars .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in paris .
-Question: what are you doing for a living ?
-T.I.A: i am a admin . . .
-Esperada: i am a admin .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in madrid .
-Question: where do you live ?
-T.I.A: i live in london . . .
-Esperada: i live in madrid .
-Question: how are you doing ?
-T.I.A: good . . .
-Esperada: good .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
@@ -2613,21 +2148,486 @@ T.I.A: i am a admin . . .
 Esperada: i am a lawyer .
 Question: how are you doing ?
 T.I.A: good . . .
+Esperada: awesome .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a engineer .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: good .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love pink .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: awesome .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a lawyer .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: terrible .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love yellow .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in rome .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love blue .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in miami .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in paris .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love yellow .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love yellow .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in barcelona .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: terrible .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in paris .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in miami .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in boston .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in seattle .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in miami .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in boston .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in seattle .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love brown .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a lawyer .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in boston .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love pink .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in rome .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love brown .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in seattle .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love pink .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: good .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in paris .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love blue .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in madrid .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in seattle .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love brown .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: great .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in madrid .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in barcelona .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: terrible .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in madrid .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: good .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a engineer .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: great .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in barcelona .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love brown .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love green .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: terrible .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: good .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in barcelona .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love yellow .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in miami .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in barcelona .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in miami .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love yellow .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: great .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: awesome .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a engineer .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: great .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in london .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in boston .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in rome .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: how old are you ?
+T.I.A: years old . . . .
+Esperada: years old .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in seattle .
+Question: how much money do you have ?
+T.I.A: dollars . . . .
+Esperada: dollars .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in paris .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a admin .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in madrid .
+Question: where do you live ?
+T.I.A: i live in london . . .
+Esperada: i live in madrid .
+Question: how are you doing ?
+T.I.A: good . . .
+Esperada: good .
+Question: what is your favorite color ?
+T.I.A: i love red . . .
+Esperada: i love red .
+Question: what are you doing for a living ?
+T.I.A: i am a admin . . .
+Esperada: i am a lawyer .
+Question: how are you doing ?
+T.I.A: good . . .
 Esperada: terrible .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -2636,13 +2636,13 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in madrid .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love red .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2660,13 +2660,13 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in rome .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2675,13 +2675,13 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love blue .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2702,13 +2702,13 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2720,7 +2720,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2741,7 +2741,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2750,7 +2750,7 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love brown .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2765,7 +2765,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2774,19 +2774,19 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love blue .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in barcelona .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2810,16 +2810,16 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in paris .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in paris .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -2828,13 +2828,13 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a admin .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love blue .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -2855,10 +2855,10 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2867,7 +2867,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in boston .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2876,7 +2876,7 @@ Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
 Esperada: i am a engineer .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -2894,7 +2894,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: good .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -2906,7 +2906,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in miami .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2918,7 +2918,7 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: terrible .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .
@@ -2927,10 +2927,10 @@ Question: how are you doing ?
 T.I.A: good . . .
 Esperada: great .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
@@ -2945,13 +2945,13 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love green .
 Question: how much money do you have ?
-T.I.A: dollars . . dollars . dollars
+T.I.A: dollars . . . .
 Esperada: dollars .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: how are you doing ?
 T.I.A: good . . .
@@ -2972,13 +2972,13 @@ Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love yellow .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what is your favorite color ?
 T.I.A: i love red . . .
 Esperada: i love pink .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: what are you doing for a living ?
 T.I.A: i am a admin . . .
@@ -2990,7 +2990,7 @@ Question: where do you live ?
 T.I.A: i live in london . . .
 Esperada: i live in london .
 Question: how old are you ?
-T.I.A: years old . . years old
+T.I.A: years old . . . .
 Esperada: years old .
 Question: where do you live ?
 T.I.A: i live in london . . .

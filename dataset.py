@@ -2,9 +2,11 @@ from common import unicodeToAscii, normalizeString, readVocs, trimRareWords
 from common import indexesFromSentence, zeroPadding,binaryMatrix,inputVar,outputVar, batch2TrainData
 from voc import Voc
 import os,codecs,csv, random,re
+
 from sklearn.model_selection import train_test_split
 MAX_LENGTH = 20  # Maximum sentence length to consider
 
+from nltk.util import ngrams
 
 class Data_set:
     def __init__(self):
@@ -276,6 +278,8 @@ class Data_set:
             voc.addSentence(pair[1])
         print("Counted words:", voc.num_words)
         return voc, pairs
+
+
 
     #funções gerais da classe
     def carregar_bases(self):
