@@ -1,7 +1,8 @@
 from chatbot import Chatbot
 #conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
-#pip3 install tqdm
+#pip3 install tqdm, sklearn, torch, nltk
 #pip3 install sklearn
+
 if __name__ == '__main__':
     chat = Chatbot()
     #carrega as bases gerais e especificas e prepara as informações para serem processadas

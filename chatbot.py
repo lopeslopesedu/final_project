@@ -229,9 +229,10 @@ class Chatbot:
 
 
     #Métodos de pontuação das repsostas
-    def compute_bleu(self,reference, candidate):
+    def __compute_bleu(self,reference, candidate):
         smooth = SmoothingFunction()
         return sentence_bleu([reference], candidate, smoothing_function=smooth.method2)
+
 
 
     def __calcular_pontuacao_bleu(self,candidata, referencia):
@@ -239,21 +240,24 @@ class Chatbot:
 
     def __calcular_pontuacao_respostas(self):
         i = 0
+        resultado_bleu=[]
         while(i<len(self.resultados)):
             pergunta = self.resultados[i]
             candidata = list(self.resultados[i+1].split())[1:]
             referencia = list(self.resultados[i+2].split())[1:]
             #self.pontuacao_bleu.append(self.__calcular_pontuacao_bleu(candidata,referencia))
-            self.pontuacao_bleu.append(self.compute_bleu(candidata, referencia))
+            self.pontuacao_bleu.append(self.__compute_bleu(candidata, referencia))
             self.avg_pontuacao_bleu+=self.pontuacao_bleu[-1]
             i+=3
-            print(pergunta)
-            print(candidata)
-            print(referencia)
-            print(self.pontuacao_bleu[-1])
+            resultado_bleu.append(pergunta)
+            resultado_bleu.append(candidata)
+            resultado_bleu.append(referencia)
+            resultado_bleu.append(self.pontuacao_bleu[-1])
         #print avg
+        media = self.avg_pontuacao_bleu/len(self.pontuacao_bleu)
+        print("A pontuação média Bleu foi de: " + str(media))
+        self.dataset.salvar_resultados_bleu(resultado_bleu,media)
 
-        print("A pontuação média Bleu foi de: " + str(self.avg_pontuacao_bleu/len(self.pontuacao_bleu)))
 
 
 

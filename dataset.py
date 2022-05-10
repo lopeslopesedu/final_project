@@ -2,7 +2,7 @@ from common import unicodeToAscii, normalizeString, readVocs, trimRareWords
 from common import indexesFromSentence, zeroPadding,binaryMatrix,inputVar,outputVar, batch2TrainData
 from voc import Voc
 import os,codecs,csv, random,re
-
+from datetime import datetime
 from sklearn.model_selection import train_test_split
 MAX_LENGTH = 20  # Maximum sentence length to consider
 
@@ -314,3 +314,16 @@ class Data_set:
                 #print(pair)
                 outputfile.write(pair+"\n")
                 #writer.writerow(pair)
+    def salvar_resultados_bleu(self,resultados,media):
+        """
+        Método utilizado para salvar os resultados das consultas
+        :param resultados:
+        """
+        print("->Salvando resultados_bleu")
+        now = datetime.now()
+        arquivo_resultado_bleu = os.path.join(self.corpus, "chatbot_resultados_bleu_"+str(now)+".txt")
+        with open(self.datafile_resultados, 'w', encoding='utf-8') as outputfile:
+            #writer = csv.writer(outputfile, delimiter=self.delimiter, lineterminator='\n')
+            outputfile.write("A média do Bleu para esse teste/treino foi: "+str(media)+"\n")
+            for pair in resultados:
+                outputfile.write(pair+"\n")
