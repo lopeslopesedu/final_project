@@ -998,3 +998,967 @@ where do you live ?	i live in london .
 how old are you ?	23 years old .
 where do you live ?	i live in miami .
 where do you live ?	i live in madrid .
+where do you live ?	i live in london .
+where do you live ?	i live in miami .
+where do you live ?	i live in seattle .
+where do you live ?	i live in london .
+how much money do you have ?	22 dollars .
+how old are you ?	21 years old .
+how old are you ?	23 years old .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+how old are you ?	21 years old .
+how old are you ?	25 years old .
+what is your favorite color ?	i love pink .
+where do you live ?	i live in boston .
+how old are you ?	21 years old .
+Bridge traffic is	Also known as overhead traffic
+what are you doing for a living ?	i am a engineer .
+what is your favorite color ?	i love yellow .
+how old are you ?	25 years old .
+where do you live ?	i live in london .
+where do you live ?	i live in barcelona .
+how are you doing ?	terrible .
+where do you live ?	i live in paris .
+what are you doing for a living ?	i am a lawyer .
+what is your favorite color ?	i love green .
+what is your favorite color ?	i love yellow .
+how much money do you have ?	24 dollars .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+how are you doing ?	good .
+how much money do you have ?	21 dollars .
+where do you live ?	i live in london .
+what is your favorite color ?	i love red .
+how are you doing ?	terrible .
+how are you doing ?	good .
+what is your favorite color ?	i love blue .
+where do you live ?	i live in paris .
+what are you doing for a living ?	i am a lawyer .
+how old are you ?	21 years old .
+where do you live ?	i live in paris .
+how are you doing ?	terrible .
+how are you doing ?	good .
+where do you live ?	i live in seattle .
+where do you live ?	i live in boston .
+what are you doing for a living ?	i am a admin .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in seattle .
+what is your favorite color ?	i love blue .
+where do you live ?	i live in boston .
+where do you live ?	i live in boston .
+what is your favorite color ?	i love yellow .
+what are you doing for a living ?	i am a engineer .
+how are you doing ?	great .
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	good .
+what is your favorite color ?	i love yellow .
+what is your favorite color ?	i love brown .
+what is PRB	short for Powder River Basin
+how much money do you have ?	22 dollars .
+what are you doing for a living ?	i am a engineer .
+how old are you ?	24 years old .
+how are you doing ?	good .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in seattle .
+what are you doing for a living ?	i am a admin .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in barcelona .
+how old are you ?	23 years old .
+how are you doing ?	great .
+where do you live ?	i live in paris .
+where do you live ?	i live in london .
+where do you live ?	i live in barcelona .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+how are you doing ?	good .
+how old are you ?	21 years old .
+what is your favorite color ?	i love green .
+what is your favorite color ?	i love yellow .
+how much money do you have ?	24 dollars .
+how are you doing ?	good .
+how much money do you have ?	23 dollars .
+how old are you ?	20 years old .
+how old are you ?	20 years old .
+where do you live ?	i live in paris .
+how old are you ?	24 years old .
+what is your favorite color ?	i love red .
+where do you live ?	i live in london .
+how old are you ?	25 years old .
+where do you live ?	i live in london .
+where do you live ?	i live in paris .
+how old are you ?	25 years old .
+how much money do you have ?	20 dollars .
+what is your favorite color ?	i love red .
+how are you doing ?	good .
+where do you live ?	i live in rome .
+how are you doing ?	terrible .
+what are you doing for a living ?	i am a lawyer .
+how old are you ?	20 years old .
+what are you doing for a living ?	i am a engineer .
+how old are you ?	25 years old .
+how much money do you have ?	25 dollars .
+where do you live ?	i live in miami .
+how old are you ?	25 years old .
+where do you live ?	i live in barcelona .
+what is your favorite color ?	i love blue .
+how much money do you have ?	20 dollars .
+where do you live ?	i live in seattle .
+how much money do you have ?	22 dollars .
+where do you live ?	i live in barcelona .
+how old are you ?	20 years old .
+how old are you ?	25 years old .
+how are you doing ?	awesome .
+where do you live ?	i live in london .
+how much money do you have ?	25 dollars .
+where do you live ?	i live in rome .
+what is your favorite color ?	i love red .
+how old are you ?	21 years old .
+what is the definition of Degree	Measures the angle of a curved segment of track
+what are you doing for a living ?	i am a admin .
+what is your favorite color ?	i love yellow .
+what are you doing for a living ?	i am a admin .
+how old are you ?	23 years old .
+where do you live ?	i live in rome .
+how much money do you have ?	20 dollars .
+how much money do you have ?	22 dollars .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+what are you doing for a living ?	i am a lawyer .
+what are you doing for a living ?	i am a admin .
+what is your favorite color ?	i love green .
+how much money do you have ?	25 dollars .
+how old are you ?	21 years old .
+what are you doing for a living ?	i am a lawyer .
+what is your favorite color ?	i love pink .
+conceptualize Extra board	The group of employees not assigned to normal runs
+what is your favorite color ?	i love green .
+how old are you ?	25 years old .
+what is your favorite color ?	i love blue .
+how old are you ?	24 years old .
+how old are you ?	24 years old .
+where do you live ?	i live in rome .
+where do you live ?	i live in miami .
+define Brotherhood of Locomotive Engineers	which is a railroad labor union created in 1863
+where do you live ?	i live in barcelona .
+how old are you ?	25 years old .
+what are you doing for a living ?	i am a engineer .
+how much money do you have ?	23 dollars .
+how old are you ?	24 years old .
+how old are you ?	20 years old .
+how much money do you have ?	23 dollars .
+how old are you ?	25 years old .
+what is your favorite color ?	i love pink .
+where do you live ?	i live in paris .
+how are you doing ?	great .
+how are you doing ?	good .
+how are you doing ?	terrible .
+how are you doing ?	good .
+where do you live ?	i live in paris .
+how are you doing ?	awesome .
+define Operating ratio	determine operating expenses as a percentage of revenue
+what are you doing for a living ?	i am a admin .
+how are you doing ?	terrible .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+where do you live ?	i live in paris .
+how much money do you have ?	23 dollars .
+how much money do you have ?	22 dollars .
+how much money do you have ?	20 dollars .
+how are you doing ?	good .
+where do you live ?	i live in london .
+what is your favorite color ?	i love green .
+where do you live ?	i live in paris .
+where do you live ?	i live in barcelona .
+how much money do you have ?	24 dollars .
+how much money do you have ?	24 dollars .
+what is your favorite color ?	i love green .
+what is your favorite color ?	i love green .
+how are you doing ?	good .
+what are you doing for a living ?	i am a admin .
+what are you doing for a living ?	i am a admin .
+what is your favorite color ?	i love green .
+where do you live ?	i live in barcelona .
+how much money do you have ?	21 dollars .
+how old are you ?	25 years old .
+how are you doing ?	good .
+where do you live ?	i live in seattle .
+where do you live ?	i live in london .
+how are you doing ?	good .
+how much money do you have ?	24 dollars .
+where do you live ?	i live in barcelona .
+what is hogger	Slang for locomotive engineer
+how much money do you have ?	21 dollars .
+what is your favorite color ?	i love green .
+how are you doing ?	good .
+where do you live ?	i live in boston .
+how old are you ?	25 years old .
+how are you doing ?	good .
+how much money do you have ?	23 dollars .
+how are you doing ?	good .
+how old are you ?	22 years old .
+where do you live ?	i live in rome .
+how are you doing ?	terrible .
+how much money do you have ?	24 dollars .
+Cog railroad is	Cog railroads are capable of traversing incredible grades and to do so they use toothed wheels
+what is the definition of Gross ton-mile	The total weight of cars and their lading when moving over a distance of one mile
+how are you doing ?	great .
+how much money do you have ?	21 dollars .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in seattle .
+what are you doing for a living ?	i am a lawyer .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in madrid .
+how much money do you have ?	20 dollars .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+how old are you ?	25 years old .
+how much money do you have ?	20 dollars .
+how are you doing ?	good .
+how old are you ?	25 years old .
+how old are you ?	25 years old .
+what is your favorite color ?	i love pink .
+where do you live ?	i live in rome .
+how old are you ?	23 years old .
+what are you doing for a living ?	i am a lawyer .
+where do you live ?	i live in rome .
+what is your favorite color ?	i love yellow .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+where do you live ?	i live in boston .
+where do you live ?	i live in seattle .
+how much money do you have ?	20 dollars .
+what is your favorite color ?	i love blue .
+how old are you ?	25 years old .
+where do you live ?	i live in boston .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in miami .
+how old are you ?	21 years old .
+what is your favorite color ?	i love red .
+where do you live ?	i live in london .
+what is your favorite color ?	i love pink .
+where do you live ?	i live in rome .
+how old are you ?	23 years old .
+how are you doing ?	good .
+where do you live ?	i live in london .
+what is the definition of Bridge traffic	Also known as overhead traffic
+how are you doing ?	terrible .
+how old are you ?	24 years old .
+how old are you ?	23 years old .
+what is the definition of Drag	Slang for a slow freight
+how old are you ?	21 years old .
+where do you live ?	i live in boston .
+what is your favorite color ?	i love red .
+where do you live ?	i live in rome .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in london .
+what are you doing for a living ?	i am a admin .
+what is your favorite color ?	i love blue .
+how are you doing ?	awesome .
+what are you doing for a living ?	i am a engineer .
+what is your favorite color ?	i love pink .
+how old are you ?	20 years old .
+what is your favorite color ?	i love blue .
+where do you live ?	i live in boston .
+where do you live ?	i live in barcelona .
+talk about Controlling interest	Owning enough stock in a corporation to control that corporation
+where do you live ?	i live in london .
+what is your favorite color ?	i love pink .
+how old are you ?	25 years old .
+where do you live ?	i live in boston .
+how old are you ?	25 years old .
+where do you live ?	i live in rome .
+how much money do you have ?	25 dollars .
+how are you doing ?	terrible .
+how are you doing ?	great .
+what is your favorite color ?	i love red .
+what is your favorite color ?	i love brown .
+what is your favorite color ?	i love pink .
+how old are you ?	20 years old .
+how old are you ?	22 years old .
+how old are you ?	25 years old .
+what is your favorite color ?	i love green .
+how are you doing ?	good .
+what is your favorite color ?	i love blue .
+how old are you ?	22 years old .
+what is your favorite color ?	i love red .
+how are you doing ?	great .
+where do you live ?	i live in miami .
+talk about Consist	Used to describe the makeup of a train
+what is Doubleheading	Using two locomotives, independently, to move a train
+how old are you ?	24 years old .
+where do you live ?	i live in paris .
+conceptualize Interurban	A termed applied to electrically-powered commuter
+how old are you ?	24 years old .
+where do you live ?	i live in rome .
+what are you doing for a living ?	i am a admin .
+talk about COFC	Short for Containers On Flatcar
+how are you doing ?	good .
+where do you live ?	i live in boston .
+how much money do you have ?	22 dollars .
+where do you live ?	i live in paris .
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	good .
+what are you doing for a living ?	i am a engineer .
+how old are you ?	23 years old .
+what are you doing for a living ?	i am a admin .
+how much money do you have ?	21 dollars .
+where do you live ?	i live in boston .
+how old are you ?	25 years old .
+what is your favorite color ?	i love brown .
+what are you doing for a living ?	i am a admin .
+define Incentive per diem	the industry pushed railroads to buy new freight cars with the enticement of payments for doing so
+what are you doing for a living ?	i am a lawyer .
+how old are you ?	20 years old .
+where do you live ?	i live in madrid .
+how old are you ?	23 years old .
+how old are you ?	23 years old .
+how much money do you have ?	21 dollars .
+where do you live ?	i live in boston .
+how are you doing ?	good .
+how old are you ?	20 years old .
+where do you live ?	i live in miami .
+define Adhesion factor	essentially describes how well a locomotive can grip the rails
+how much money do you have ?	22 dollars .
+how old are you ?	21 years old .
+how much money do you have ?	22 dollars .
+how old are you ?	20 years old .
+what is your favorite color ?	i love red .
+how much money do you have ?	25 dollars .
+how are you doing ?	good .
+where do you live ?	i live in london .
+how old are you ?	25 years old .
+how much money do you have ?	20 dollars .
+how much money do you have ?	25 dollars .
+how are you doing ?	good .
+what is your favorite color ?	i love blue .
+where do you live ?	i live in london .
+what is your favorite color ?	i love blue .
+how much money do you have ?	23 dollars .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+where do you live ?	i live in madrid .
+where do you live ?	i live in rome .
+how are you doing ?	awesome .
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	good .
+where do you live ?	i live in paris .
+what is your favorite color ?	i love red .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in seattle .
+where do you live ?	i live in london .
+where do you live ?	i live in barcelona .
+how old are you ?	21 years old .
+how are you doing ?	good .
+how are you doing ?	great .
+what is your favorite color ?	i love red .
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	good .
+where do you live ?	i live in barcelona .
+how old are you ?	25 years old .
+how old are you ?	25 years old .
+what is your favorite color ?	i love pink .
+how are you doing ?	good .
+what is your favorite color ?	i love yellow .
+what is your favorite color ?	i love green .
+what is Knuckle	The free-moving part of a coupler that actually keeps cars and locomotives mated to one another
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	great .
+what is your favorite color ?	i love brown .
+how are you doing ?	terrible .
+what is the definition of Form D	A track warrant used only be railroads in the eastern US
+where do you live ?	i live in barcelona .
+what are you doing for a living ?	i am a engineer .
+how much money do you have ?	20 dollars .
+how are you doing ?	great .
+how are you doing ?	great .
+how old are you ?	23 years old .
+how old are you ?	25 years old .
+where do you live ?	i live in london .
+how much money do you have ?	25 dollars .
+how old are you ?	23 years old .
+what is your favorite color ?	i love red .
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	good .
+where do you live ?	i live in boston .
+how old are you ?	23 years old .
+where do you live ?	i live in barcelona .
+how much money do you have ?	21 dollars .
+where do you live ?	i live in boston .
+how much money do you have ?	24 dollars .
+what are you doing for a living ?	i am a admin .
+how old are you ?	24 years old .
+how much money do you have ?	20 dollars .
+define Pooling agreement	When separate railroads split all of their collective earnings amongst each other
+how are you doing ?	terrible .
+where do you live ?	i live in rome .
+where do you live ?	i live in seattle .
+how are you doing ?	good .
+what is Profile	This term illustrates graphically the layout of a rail line in terms of its grades
+how old are you ?	25 years old .
+how much money do you have ?	25 dollars .
+where do you live ?	i live in barcelona .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+Line-haul railroad is	a railroad that operates through freight from one point to another and is distinguished from switching and terminal railroads
+how old are you ?	24 years old .
+how old are you ?	24 years old .
+what are you doing for a living ?	i am a admin .
+how old are you ?	25 years old .
+how much money do you have ?	20 dollars .
+how are you doing ?	terrible .
+what is your favorite color ?	i love brown .
+where do you live ?	i live in seattle .
+talk about Embargo	when a railroad company temporarily shuts down a rail line
+where do you live ?	i live in london .
+where do you live ?	i live in madrid .
+where do you live ?	i live in paris .
+talk about Engineer	Person responsible for the operation of the locomotive
+conceptualize Brotherhood of Locomotive Engineers	which is a railroad labor union created in 1863
+how are you doing ?	awesome .
+what are you doing for a living ?	i am a admin .
+how are you doing ?	good .
+how much money do you have ?	22 dollars .
+what is your favorite color ?	i love yellow .
+where do you live ?	i live in london .
+how old are you ?	24 years old .
+hostler is	Person responsible for the operation of the locomotive
+where do you live ?	i live in boston .
+where do you live ?	i live in london .
+where do you live ?	i live in miami .
+how much money do you have ?	20 dollars .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in madrid .
+where do you live ?	i live in seattle .
+where do you live ?	i live in madrid .
+how old are you ?	22 years old .
+where do you live ?	i live in rome .
+how are you doing ?	awesome .
+how old are you ?	25 years old .
+what are you doing for a living ?	i am a lawyer .
+where do you live ?	i live in boston .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in madrid .
+what are you doing for a living ?	i am a lawyer .
+what is your favorite color ?	i love yellow .
+how old are you ?	22 years old .
+how are you doing ?	awesome .
+how much money do you have ?	25 dollars .
+how old are you ?	21 years old .
+how much money do you have ?	24 dollars .
+where do you live ?	i live in boston .
+where do you live ?	i live in rome .
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	good .
+how old are you ?	23 years old .
+how are you doing ?	great .
+how much money do you have ?	25 dollars .
+what are you doing for a living ?	i am a admin .
+how much money do you have ?	25 dollars .
+where do you live ?	i live in barcelona .
+how old are you ?	20 years old .
+how old are you ?	25 years old .
+what are you doing for a living ?	i am a admin .
+how old are you ?	23 years old .
+define Recrew	When a train receives a new crew
+how much money do you have ?	22 dollars .
+what is your favorite color ?	i love blue .
+Intermodal is	Refers to moving freight using more than one type of transportation
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	great .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+where do you live ?	i live in barcelona .
+how much money do you have ?	20 dollars .
+what is your favorite color ?	i love red .
+how are you doing ?	great .
+where do you live ?	i live in rome .
+how old are you ?	25 years old .
+how are you doing ?	good .
+how much money do you have ?	24 dollars .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+what is your favorite color ?	i love blue .
+where do you live ?	i live in london .
+how much money do you have ?	20 dollars .
+what is your favorite color ?	i love red .
+where do you live ?	i live in london .
+define Lignite	Refers to low-quality coal
+how old are you ?	25 years old .
+how much money do you have ?	20 dollars .
+how old are you ?	21 years old .
+how old are you ?	25 years old .
+what is your favorite color ?	i love green .
+how old are you ?	25 years old .
+where do you live ?	i live in london .
+how old are you ?	21 years old .
+where do you live ?	i live in seattle .
+how old are you ?	20 years old .
+how old are you ?	25 years old .
+how old are you ?	20 years old .
+how are you doing ?	great .
+where do you live ?	i live in paris .
+how much money do you have ?	20 dollars .
+what is your favorite color ?	i love pink .
+where do you live ?	i live in london .
+what is your favorite color ?	i love yellow .
+how old are you ?	25 years old .
+where do you live ?	i live in london .
+how much money do you have ?	20 dollars .
+conceptualize hogger	Slang for locomotive engineer
+how old are you ?	25 years old .
+where do you live ?	i live in seattle .
+what are you doing for a living ?	i am a admin .
+how much money do you have ?	25 dollars .
+how much money do you have ?	20 dollars .
+how old are you ?	25 years old .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in london .
+how much money do you have ?	21 dollars .
+what is your favorite color ?	i love brown .
+how much money do you have ?	20 dollars .
+how much money do you have ?	25 dollars .
+how are you doing ?	awesome .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+where do you live ?	i live in seattle .
+how are you doing ?	good .
+how old are you ?	20 years old .
+how old are you ?	23 years old .
+how are you doing ?	good .
+where do you live ?	i live in seattle .
+how are you doing ?	awesome .
+how are you doing ?	good .
+how old are you ?	24 years old .
+how old are you ?	25 years old .
+where do you live ?	i live in paris .
+where do you live ?	i live in seattle .
+what is your favorite color ?	i love green .
+how are you doing ?	great .
+where do you live ?	i live in boston .
+what is your favorite color ?	i love red .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in london .
+how old are you ?	25 years old .
+conceptualize Consolidation	The merging of two corporations into an entirely new corporation
+where do you live ?	i live in london .
+how old are you ?	25 years old .
+how much money do you have ?	21 dollars .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+how much money do you have ?	20 dollars .
+what are you doing for a living ?	i am a admin .
+how much money do you have ?	20 dollars .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+how are you doing ?	terrible .
+how much money do you have ?	20 dollars .
+how old are you ?	25 years old .
+where do you live ?	i live in paris .
+what is the definition of Marker	See EOT device
+where do you live ?	i live in rome .
+what are you doing for a living ?	i am a lawyer .
+how much money do you have ?	25 dollars .
+how are you doing ?	terrible .
+what is your favorite color ?	i love red .
+how are you doing ?	good .
+how much money do you have ?	25 dollars .
+where do you live ?	i live in rome .
+where do you live ?	i live in barcelona .
+how much money do you have ?	24 dollars .
+how old are you ?	20 years old .
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	good .
+talk about Merger	The assimilation of one or more corporations by another
+how are you doing ?	good .
+how old are you ?	24 years old .
+how much money do you have ?	20 dollars .
+how old are you ?	20 years old .
+how much money do you have ?	21 dollars .
+how are you doing ?	great .
+how old are you ?	21 years old .
+how are you doing ?	good .
+how old are you ?	24 years old .
+how much money do you have ?	20 dollars .
+how old are you ?	21 years old .
+how are you doing ?	good .
+how much money do you have ?	24 dollars .
+what are you doing for a living ?	i am a engineer .
+how old are you ?	25 years old .
+how old are you ?	24 years old .
+how are you doing ?	great .
+what is your favorite color ?	i love green .
+where do you live ?	i live in paris .
+how old are you ?	25 years old .
+what is your favorite color ?	i love pink .
+what is your favorite color ?	i love blue .
+where do you live ?	i live in miami .
+how much money do you have ?	20 dollars .
+how are you doing ?	great .
+how old are you ?	25 years old .
+how much money do you have ?	23 dollars .
+what is your favorite color ?	i love pink .
+how much money do you have ?	24 dollars .
+where do you live ?	i live in boston .
+where do you live ?	i live in seattle .
+how are you doing ?	great .
+what is your favorite color ?	i love yellow .
+how old are you ?	24 years old .
+how old are you ?	22 years old .
+conceptualize Per diem	A Latin term that means per day
+where do you live ?	i live in barcelona .
+how are you doing ?	good .
+what is Full service trackage rights	agreement whereby the tenant railroad can serve all customers located along the owning railroad's
+what is your favorite color ?	i love green .
+how much money do you have ?	22 dollars .
+define Boomer	A railroader who changes jobs often as he drifts through the country
+what is your favorite color ?	i love red .
+how old are you ?	21 years old .
+how much money do you have ?	25 dollars .
+what are you doing for a living ?	i am a engineer .
+what are you doing for a living ?	i am a admin .
+what is your favorite color ?	i love red .
+what are you doing for a living ?	i am a admin .
+conceptualize Cut	The term which describes a grouping of cars coupled together
+what is your favorite color ?	i love red .
+how much money do you have ?	20 dollars .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in boston .
+how are you doing ?	good .
+where do you live ?	i live in madrid .
+what is your favorite color ?	i love yellow .
+what is the definition of Charter	a governmental means of granting rights, franchises, and privileges to such.
+what is your favorite color ?	i love red .
+where do you live ?	i live in london .
+how are you doing ?	terrible .
+how old are you ?	21 years old .
+what are you doing for a living ?	i am a engineer .
+where do you live ?	i live in london .
+what is the definition of Bulletin order	notifications given to railroad employees informing them of a operational change
+what are you doing for a living ?	i am a lawyer .
+talk about Per diem	A Latin term that means per day
+where do you live ?	i live in miami .
+where do you live ?	i live in paris .
+how old are you ?	25 years old .
+what is your favorite color ?	i love pink .
+what are you doing for a living ?	i am a engineer .
+how are you doing ?	awesome .
+how old are you ?	24 years old .
+how are you doing ?	awesome .
+how are you doing ?	good .
+how old are you ?	25 years old .
+how much money do you have ?	20 dollars .
+how are you doing ?	good .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+what is your favorite color ?	i love pink .
+how much money do you have ?	25 dollars .
+where do you live ?	i live in rome .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+how much money do you have ?	20 dollars .
+how old are you ?	25 years old .
+what is your favorite color ?	i love yellow .
+what is your favorite color ?	i love red .
+what is your favorite color ?	i love pink .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+where do you live ?	i live in paris .
+where do you live ?	i live in miami .
+how are you doing ?	awesome .
+how much money do you have ?	20 dollars .
+where do you live ?	i live in barcelona .
+what is your favorite color ?	i love red .
+how old are you ?	23 years old .
+conceptualize Joint operation	Refers to operating two railroads as one but retain each railroad's board of directors
+how are you doing ?	awesome .
+what is your favorite color ?	i love red .
+what is the definition of Controlling interest	Owning enough stock in a corporation to control that corporation
+how old are you ?	20 years old .
+how old are you ?	25 years old .
+where do you live ?	i live in paris .
+where do you live ?	i live in boston .
+how much money do you have ?	20 dollars .
+how much money do you have ?	24 dollars .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in boston .
+how old are you ?	25 years old .
+what are you doing for a living ?	i am a lawyer .
+where do you live ?	i live in miami .
+how old are you ?	25 years old .
+how much money do you have ?	20 dollars .
+conceptualize Gandy Dancer	one who maintained the railroad track and right of way
+where do you live ?	i live in boston .
+how much money do you have ?	23 dollars .
+define Drag	Slang for a slow freight
+what are you doing for a living ?	i am a lawyer .
+how old are you ?	21 years old .
+where do you live ?	i live in seattle .
+define Clearance form	forms issued to passing trains telling them, sequentially, their orders, if any
+where do you live ?	i live in paris .
+how are you doing ?	terrible .
+what is your favorite color ?	i love red .
+where do you live ?	i live in london .
+how much money do you have ?	24 dollars .
+what is your favorite color ?	i love pink .
+what are you doing for a living ?	i am a engineer .
+how are you doing ?	awesome .
+how are you doing ?	awesome .
+where do you live ?	i live in barcelona .
+where do you live ?	i live in boston .
+how are you doing ?	good .
+what are you doing for a living ?	i am a engineer .
+where do you live ?	i live in seattle .
+how are you doing ?	good .
+where do you live ?	i live in london .
+what is your favorite color ?	i love green .
+where do you live ?	i live in paris .
+how old are you ?	25 years old .
+how much money do you have ?	22 dollars .
+how much money do you have ?	20 dollars .
+how are you doing ?	great .
+how much money do you have ?	21 dollars .
+how old are you ?	25 years old .
+how are you doing ?	awesome .
+what is your favorite color ?	i love brown .
+where do you live ?	i live in boston .
+where do you live ?	i live in miami .
+conceptualize Derating	changing the locomotive's prime mover to improve fuel efficiency or lower maintenance costs
+how are you doing ?	good .
+how much money do you have ?	25 dollars .
+where do you live ?	i live in barcelona .
+how are you doing ?	terrible .
+define Power	Another term for locomotives
+how are you doing ?	terrible .
+what are you doing for a living ?	i am a admin .
+how are you doing ?	good .
+where do you live ?	i live in rome .
+where do you live ?	i live in miami .
+how much money do you have ?	20 dollars .
+conceptualize Commuter service	Passenger train service that typically operates during normal working hours
+how are you doing ?	terrible .
+conceptualize Eighth notch	is the final, and most powerful position on the locomotive's throttle
+how much money do you have ?	25 dollars .
+how are you doing ?	good .
+what are you doing for a living ?	i am a lawyer .
+how are you doing ?	awesome .
+what is your favorite color ?	i love red .
+where do you live ?	i live in rome .
+how are you doing ?	terrible .
+how much money do you have ?	20 dollars .
+what is your favorite color ?	i love red .
+what is your favorite color ?	i love red .
+how old are you ?	23 years old .
+how are you doing ?	good .
+where do you live ?	i live in london .
+where do you live ?	i live in miami .
+how old are you ?	20 years old .
+how are you doing ?	awesome .
+where do you live ?	i live in paris .
+how are you doing ?	good .
+where do you live ?	i live in london .
+how old are you ?	23 years old .
+what is the definition of Flimsies	thin piece of paper train orders were once written on
+how old are you ?	20 years old .
+what is your favorite color ?	i love red .
+how much money do you have ?	25 dollars .
+talk about Name train	a passenger trains during the days when the private railroads operated them
+how are you doing ?	great .
+how much money do you have ?	23 dollars .
+conceptualize Bad order	A freight car which has been barred from service because of a mechanical problem
+where do you live ?	i live in boston .
+where do you live ?	i live in rome .
+what is your favorite color ?	i love brown .
+how much money do you have ?	21 dollars .
+where do you live ?	i live in seattle .
+where do you live ?	i live in london .
+where do you live ?	i live in london .
+what is your favorite color ?	i love red .
+where do you live ?	i live in boston .
+how are you doing ?	great .
+where do you live ?	i live in seattle .
+where do you live ?	i live in miami .
+how old are you ?	22 years old .
+how old are you ?	23 years old .
+where do you live ?	i live in madrid .
+how much money do you have ?	22 dollars .
+where do you live ?	i live in london .
+how much money do you have ?	25 dollars .
+where do you live ?	i live in london .
+how old are you ?	23 years old .
+what are you doing for a living ?	i am a lawyer .
+how much money do you have ?	20 dollars .
+how are you doing ?	awesome .
+what is your favorite color ?	i love brown .
+where do you live ?	i live in madrid .
+how much money do you have ?	23 dollars .
+how old are you ?	21 years old .
+where do you live ?	i live in barcelona .
+where do you live ?	i live in paris .
+how are you doing ?	good .
+how old are you ?	25 years old .
+where do you live ?	i live in london .
+where do you live ?	i live in boston .
+what are you doing for a living ?	i am a lawyer .
+how old are you ?	21 years old .
+conceptualize Operating ratio	determine operating expenses as a percentage of revenue
+how much money do you have ?	21 dollars .
+what is Name train	a passenger trains during the days when the private railroads operated them
+how are you doing ?	good .
+where do you live ?	i live in miami .
+where do you live ?	i live in london .
+what are you doing for a living ?	i am a lawyer .
+what is your favorite color ?	i love yellow .
+how much money do you have ?	21 dollars .
+how old are you ?	25 years old .
+what is your favorite color ?	i love pink .
+how old are you ?	24 years old .
+how old are you ?	23 years old .
+what are you doing for a living ?	i am a admin .
+how are you doing ?	great .
+what is your favorite color ?	i love red .
+how are you doing ?	good .
+where do you live ?	i live in london .
+what is your favorite color ?	i love red .
+where do you live ?	i live in seattle .
+how much money do you have ?	20 dollars .
+how old are you ?	23 years old .
+what is Charter	a governmental means of granting rights, franchises, and privileges to such.
+what are you doing for a living ?	i am a engineer .
+how are you doing ?	awesome .
+how are you doing ?	great .
+where do you live ?	i live in miami .
+how much money do you have ?	20 dollars .
+how much money do you have ?	23 dollars .
+where do you live ?	i live in london .
+how much money do you have ?	24 dollars .
+where do you live ?	i live in madrid .
+what is your favorite color ?	i love red .
+what is your favorite color ?	i love pink .
+what is your favorite color ?	i love blue .
+how old are you ?	25 years old .
+where do you live ?	i live in barcelona .
+how much money do you have ?	25 dollars .
+how old are you ?	25 years old .
+talk about Net ton mile	The movement of one ton of freight per mile
+where do you live ?	i live in london .
+how much money do you have ?	25 dollars .
+how old are you ?	20 years old .
+how are you doing ?	good .
+where do you live ?	i live in london .
+how old are you ?	25 years old .
+what are you doing for a living ?	i am a admin .
+how much money do you have ?	23 dollars .
+how are you doing ?	good .
+where do you live ?	i live in paris .
+where do you live ?	i live in seattle .
+what are you doing for a living ?	i am a engineer .
+how old are you ?	21 years old .
+where do you live ?	i live in london .
+what are you doing for a living ?	i am a admin .
+what is your favorite color ?	i love blue .
+what is your favorite color ?	i love yellow .
+where do you live ?	i live in london .
+how much money do you have ?	25 dollars .
+how are you doing ?	awesome .
+how old are you ?	24 years old .
+how old are you ?	21 years old .
+how are you doing ?	good .
+where do you live ?	i live in miami .
+how old are you ?	25 years old .
+where do you live ?	i live in london .
+how are you doing ?	good .
+where do you live ?	i live in madrid .
+what are you doing for a living ?	i am a admin .
+what is your favorite color ?	i love red .
+what are you doing for a living ?	i am a admin .
+where do you live ?	i live in london .
+what is your favorite color ?	i love yellow .
+where do you live ?	i live in london .
+how much money do you have ?	23 dollars .
+what is your favorite color ?	i love green .
+how are you doing ?	good .
+what is your favorite color ?	i love yellow .
+what is Fusee	A flare used by railroads
+what is your favorite color ?	i love yellow .
+what is your favorite color ?	i love red .
+how much money do you have ?	22 dollars .
+how old are you ?	25 years old .
+how old are you ?	24 years old .
+what is your favorite color ?	i love yellow .
+what is your favorite color ?	i love brown .
+how old are you ?	24 years old .
+what are you doing for a living ?	i am a admin .
+how old are you ?	22 years old .
+what are you doing for a living ?	i am a admin .
+conceptualize Belt line	Refers to a railroad that operates exclusively in and/or around a large city
+what is your favorite color ?	i love blue .
+how old are you ?	25 years old .
+what is your favorite color ?	i love red .
+what are you doing for a living ?	i am a lawyer .
+define CP	short for control point on a railroad
+where do you live ?	i live in barcelona .
+what is Availability	when a locomotive is free to be used in revenue service and down for maintenance work
+what is your favorite color ?	i love red .
+what is Joint operation	Refers to operating two railroads as one but retain each railroad's board of directors
+what are you doing for a living ?	i am a engineer .
+how old are you ?	24 years old .
+where do you live ?	i live in boston .
+where do you live ?	i live in rome .
+how much money do you have ?	20 dollars .
+where do you live ?	i live in madrid .
+what is your favorite color ?	i love pink .
+what is your favorite color ?	i love blue .
+how old are you ?	22 years old .
+how old are you ?	24 years old .
+where do you live ?	i live in boston .
+how are you doing ?	good .
+what is your favorite color ?	i love red .
+what is your favorite color ?	i love red .
+how are you doing ?	good .
+what are you doing for a living ?	i am a lawyer .
+where do you live ?	i live in paris .
+what is your favorite color ?	i love pink .
+what are you doing for a living ?	i am a engineer .
+how old are you ?	21 years old .
+how are you doing ?	good .
+what are you doing for a living ?	i am a lawyer .
+what are you doing for a living ?	i am a lawyer .
+how much money do you have ?	22 dollars .
+how are you doing ?	awesome .
+where do you live ?	i live in rome .
+how much money do you have ?	23 dollars .
+how old are you ?	25 years old .
+where do you live ?	i live in rome .
+where do you live ?	i live in miami .
+how old are you ?	25 years old .
+how old are you ?	25 years old .
+how old are you ?	24 years old .
+what is your favorite color ?	i love red .
+how much money do you have ?	21 dollars .
+how old are you ?	24 years old .
+where do you live ?	i live in madrid .
+how are you doing ?	good .
+how are you doing ?	awesome .
+how are you doing ?	good .
+how old are you ?	24 years old .
+where do you live ?	i live in london .
+how old are you ?	22 years old .
+where do you live ?	i live in london .
+how old are you ?	25 years old .
+how much money do you have ?	21 dollars .
+how much money do you have ?	20 dollars .
+how much money do you have ?	23 dollars .
+how old are you ?	23 years old .
+conceptualize Merger	The assimilation of one or more corporations by another
+where do you live ?	i live in rome .
+where do you live ?	i live in london .
+how much money do you have ?	25 dollars .
+how are you doing ?	good .
+where do you live ?	i live in london .

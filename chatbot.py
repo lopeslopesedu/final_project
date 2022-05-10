@@ -16,7 +16,8 @@ SOS_token = 1  # Start-of-sentence token
 MAX_LENGTH = 20  # Maximum sentence length to consider
 
 from nltk.translate import bleu_score
-from nltk.translate.bleu_score import sentence_bleu
+from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
+
 
 class Chatbot:
     def __init__(self):
@@ -228,6 +229,10 @@ class Chatbot:
 
 
     #Métodos de pontuação das repsostas
+    def compute_bleu(self,reference, candidate):
+        smooth = SmoothingFunction()
+        return sentence_bleu([reference], candidate, smoothing_function=smooth.method2)
+
 
     def __calcular_pontuacao_bleu(self,candidata, referencia):
         return sentence_bleu(candidata, referencia,smoothing_function=bleu_score.SmoothingFunction(epsilon=1e-12).method2)
@@ -238,9 +243,11 @@ class Chatbot:
             pergunta = self.resultados[i]
             candidata = list(self.resultados[i+1].split())[1:]
             referencia = list(self.resultados[i+2].split())[1:]
-            self.pontuacao_bleu.append(self.__calcular_pontuacao_bleu(candidata,referencia))
+            #self.pontuacao_bleu.append(self.__calcular_pontuacao_bleu(candidata,referencia))
+            self.pontuacao_bleu.append(self.compute_bleu(candidata, referencia))
             self.avg_pontuacao_bleu+=self.pontuacao_bleu[-1]
             i+=3
+            print(pergunta)
             print(candidata)
             print(referencia)
             print(self.pontuacao_bleu[-1])
