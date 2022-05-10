@@ -131,7 +131,7 @@ class Data_set:
         batches = batch2TrainData(self.voc, [random.choice(self.pairs) for _ in range(small_batch_size)])
 
     #separação Treino Teste
-    def separar_treino_teste(self):
+    def separar_treino_teste(self,base):
         """
         Método utilizado para fazer a separação treino e testes
         :return: Retorna a base de testes
@@ -139,19 +139,20 @@ class Data_set:
         #prepara os dados para separação
         X=[]
         y=[]
-        for i in self.pairs:
+        for i in base:
             X.append(i[0])
             y.append(i[1])
         #realiza a separação
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=(self.treino*0.01), random_state=42)
-        self.pairs = []
+        base_treino = []
+        base_teste = []
         for i in range(len(X_train)):
-            self.pairs.append([X_train[i], y_train[i]])
+            base_treino.append([X_train[i], y_train[i]])
         base_teste = []
         for i in range(len(X_test)):
             base_teste.append([X_test[i], y_test[i]])
 
-        return base_teste
+        return base_treino,base_teste
 
     #bloco de carregamento
     def __carregar_base_geral(self):
@@ -205,12 +206,13 @@ class Data_set:
         """
         print("\n-*Carregando Base de Perguntas Especialistas*-")
         arquivo = "base.csv"
+        base=[]
         with open(arquivo) as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=';')
             for row in csv_reader:
-                self.pairs.append([row[0], row[1]])
+                base.append([row[0], row[1]])
 
-        base_teste = self.separar_treino_teste()
+        self.pairs,base_teste = self.separar_treino_teste(base)
 
         tipo_abertura_arquivo = "w"
 
@@ -225,7 +227,7 @@ class Data_set:
             writer = csv.writer(outputfile, delimiter=self.delimiter, lineterminator='\n')
             for pair in base_teste:
                 writer.writerow(pair)
-        del (base_teste)
+        del (base_teste,base)
     def __carregar_base_especialista(self):
         """
         Método utilizado para carregar a base de dados especialistas
@@ -236,12 +238,15 @@ class Data_set:
         """
         print("\n-*Carregando Base de Perguntas Especialistas*-")
         arquivo = "especialista.csv"
+        base = []
+        base_treino=[]
         with open(arquivo) as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=';')
             for row in csv_reader:
-                self.pairs.append([row[0], row[1]])
+                base.append([row[0], row[1]])
 
-        base_teste = self.separar_treino_teste()
+        base_treino,base_teste = self.separar_treino_teste(base)
+        self.pairs+=base_treino
 
         if(self.usar_base_geral):
             tipo_abertura_arquivo = "a"
@@ -259,7 +264,7 @@ class Data_set:
             writer = csv.writer(outputfile, delimiter=self.delimiter, lineterminator='\n')
             for pair in base_teste:
                 writer.writerow(pair)
-        del (base_teste)
+        del (base_teste,base,base_treino)
 
     def carregar_base_testes(self):
         """
