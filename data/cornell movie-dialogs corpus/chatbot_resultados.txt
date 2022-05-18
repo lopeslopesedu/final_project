@@ -1,3192 +1,3321 @@
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: i what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin
+Esperada: i am a admin
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a lawyer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a lawyer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in barcelona .
+T.I.A: i live in london
+Esperada: i live in barcelona
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love blue .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love blue
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love brown .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love brown
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love red .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love red
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in boston .
+T.I.A: i live in london
+Esperada: i live in boston
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in rome .
+T.I.A: i live in london
+Esperada: i live in rome
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a engineer .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a engineer
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in seattle .
+T.I.A: i live in london
+Esperada: i live in seattle
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in paris .
+T.I.A: i live in london
+Esperada: i live in paris
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: great .
+T.I.A: good engineer to ready them a company
+Esperada: great
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
+T.I.A: i live in london
+Esperada: i live in madrid
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love green .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love green
 Question: how much money do you have ?
-T.I.A: dollars . . . . .
-Esperada: dollars .
+T.I.A: dollars dollars which than what is possible between two given points dollars
+Esperada: dollars
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: awesome .
+T.I.A: good engineer to ready them a company
+Esperada: awesome
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: good .
+T.I.A: good engineer to ready them a company
+Esperada: good
 Question: how are you doing ?
-T.I.A: good . . . . .
-Esperada: terrible .
+T.I.A: good engineer to ready them a company
+Esperada: terrible
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love yellow .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love yellow
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what is your favorite color ?
-T.I.A: i love red . . . . .
-Esperada: i love pink .
+T.I.A: i love red which than what is possible between two given
+Esperada: i love pink
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: what are you doing for a living ?
-T.I.A: i am a admin . . . .
-Esperada: i am a admin .
+T.I.A: i am a admin engineer to a admin
+Esperada: i am a admin
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in london .
+T.I.A: i live in london
+Esperada: i live in london
 Question: how old are you ?
-T.I.A: years old . . . . .
-Esperada: years old .
+T.I.A: years old old
+Esperada: years old
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in miami .
+T.I.A: i live in london
+Esperada: i live in miami
 Question: where do you live ?
-T.I.A: i live in london . . . .
-Esperada: i live in madrid .
-Question: gross ton mile is
-T.I.A: the total weight of cars and their lading when moving over a distance of one mile a distance of
-Esperada: the total weight of cars and their lading when moving over a distance of one mile
-Question: define prb
-T.I.A: short for powder river basin in . basin for powder river basin
-Esperada: short for powder river basin
-Question: what is load limit
-T.I.A: the maximum load that a rail is capable of handling that operates during normal working hours
-Esperada: the maximum load that a rail is capable of handling
-Question: talk about double the hill
-T.I.A: move a train over a hill or steep grade in two parts as the locomotives are simply not powerful
-Esperada: move a train over a hill or steep grade in two parts as the locomotives are simply not powerful
-Question: what is the definition of drawbar force
-T.I.A: short for end of train device in a special well car the main line terms of its
-Esperada: tractive effort involved
-Question: define hours of service law
-T.I.A: is a federal law mandating employees can only be on duty hours at a time law
-Esperada: is a federal law mandating employees can only be on duty hours at a time
-Question: what is flimsies
-T.I.A: meaning to leave the rails piece of paper earnings on were s throttle piece of paper train
-Esperada: thin piece of paper train orders were once written on
-Question: what is eot device
-T.I.A: short for end of train device in a special well car the main line terms of its
-Esperada: short for end of train device
-Question: define drayage
-T.I.A: meaning moving via truck a high train in no way helping railroad for delivery
-Esperada: meaning moving via truck
-Question: brotherhood of locomotive engineers is
-T.I.A: which is a railroad labor union created in that operates service and down for maintenance
-Esperada: which is a railroad labor union created in
-Question: define bulk
-T.I.A: a railroad s traffic hauled by another railroad between two points the main line terms of its grades
-Esperada: commodities such as grain
-Question: hostler is
-T.I.A: person responsible for the operation of the locomotive and most powerful position on the locomotive s throttle
-Esperada: person responsible for the operation of the locomotive
-Question: conceptualize operating ratio
-T.I.A: determine operating expenses as a percentage of revenue and most always given the main line terms of
-Esperada: determine operating expenses as a percentage of revenue
-Question: define hog law
-T.I.A: is a federal law mandating employees can only be on duty hours at a time of track
-Esperada: is a federal law mandating employees can only be on duty hours at a time
-Question: define ble
-T.I.A: short for brotherhood of locomotive engineers in a special well car the general public the railroad for
-Esperada: short for brotherhood of locomotive engineers
-Question: define in the hole
-T.I.A: describe when a train is in a siding in of siding train in a siding
-Esperada: describe when a train is in a siding
-Question: conceptualize load limit
-T.I.A: the maximum load that a rail is capable of handling for freight cars the train
-Esperada: the maximum load that a rail is capable of handling
-Question: what is adhesion factor
-T.I.A: essentially describes how well a locomotive can grip the rails over a special well car the rails
-Esperada: essentially describes how well a locomotive can grip the rails
-Question: intermodal is
-T.I.A: refers to moving freight using more than one type of transportation refers and terminal railroads a
-Esperada: refers to moving freight using more than one type of transportation
-Question: talk about overhead trackage rights
-T.I.A: the tenant railroad cannot serve any customers located along the owning railroad s segment of line line customers
-Esperada: the tenant railroad cannot serve any customers located along the owning railroad s segment of line
+T.I.A: i live in london
+Esperada: i live in madrid
+Question: talk about recrew
+T.I.A: when a train receives a new crew such coal traffic such as
+Esperada: when a train receives a new crew
+Question: define cofc
+T.I.A: short for containers on flatcar which improve fuel efficiency or lower maintenance costs
+Esperada: short for containers on flatcar
+Question: what is the definition of unit train
+T.I.A: a train carrying a single type of commodity such as coal or grain . grain .
+Esperada: a train carrying a single type of commodity such as coal or grain .
+Question: define fusee
+T.I.A: a flare used by railroads to a train not individuals
+Esperada: a flare used by railroads
+Question: conceptualize stop signal
+T.I.A: a signal that can show a stop aspect or indication . section ahead
+Esperada: a signal that can show a stop aspect or indication .
 Question: define eot device
-T.I.A: short for end of train device in a special well car the main line terms of its
+T.I.A: short for end of train device associated with the burlington . not including extra
 Esperada: short for end of train device
-Question: what is crossbuck
-T.I.A: the x shaped sign found just before a road crosses railroad tracks line terms of its grades
-Esperada: the x shaped sign found just before a road crosses railroad tracks
-Question: talk about highball
-T.I.A: the signal to operate the train at full speed train in low sulfur coal
-Esperada: the signal to operate the train at full speed
-Question: manifest is
-T.I.A: the paperwork that identifies each and every type of lading each freight car is carrying within a train in
-Esperada: the paperwork that identifies each and every type of lading each freight car is carrying within a train
-Question: mixed train is
-T.I.A: a train hauling both freight and passengers maintenance costs train in a siding
-Esperada: a train hauling both freight and passengers
-Question: talk about nominal
-T.I.A: rating of locomotive even if mechanical troubles a general public the general public of locomotive engineers
-Esperada: rating of locomotive even if mechanical troubles
-Question: what is the definition of availability
-T.I.A: when a locomotive is free to be used in revenue service and down for maintenance work a train
-Esperada: when a locomotive is free to be used in revenue service and down for maintenance work
-Question: conceptualize holding company
-T.I.A: a company that controls other companies through ownership that operates during normal working hours a time
-Esperada: a company that controls other companies through ownership
-Question: what is prb
-T.I.A: short for powder river basin in . basin for powder river basin
-Esperada: short for powder river basin
-Question: what is the definition of incentive per diem
+Question: switched off is
+T.I.A: electrical equipment is isolated and separated from all sources of supply
+Esperada: electrical equipment that is disconnected and separated from all sources of supply
+Question: bi directional line is
+T.I.A: a line on which the signalling allows trains to run in both directions . run available
+Esperada: a line on which the signalling allows trains to run in both directions .
+Question: define right side failure
+T.I.A: a failure that reduces or removes the protection given by signalling equipment . equipment .
+Esperada: a failure that does not reduce the protection given by signalling equipment .
+Question: define through freight
+T.I.A: a train not designated to set off or pick up cars when in transit . o . not
+Esperada: a train not designated to set off or pick up cars when in transit .
+Question: conceptualize right side failure
+T.I.A: a failure that reduces or removes the protection given by signalling equipment . equipment .
+Esperada: a failure that does not reduce the protection given by signalling equipment .
+Question: define hogger
+T.I.A: slang for locomotive engineer to control which services
+Esperada: slang for locomotive engineer
+Question: define receivership
+T.I.A: during bankruptcy proceedings a corporation that is being managed by a receiver receiver not toothed .
+Esperada: during bankruptcy proceedings a corporation that is being managed by a receiver
+Question: what is the definition of hostler
+T.I.A: person responsible for the operation of the locomotive to operate the
+Esperada: person responsible for the operation of the locomotive
+Question: talk about eighth notch
+T.I.A: is the final and most powerful position on the locomotive s throttle throttle throttle throttle
+Esperada: is the final and most powerful position on the locomotive s throttle
+Question: conceptualize conductor
+T.I.A: the crew member who is entirely responsible for the train system train entirely for maintenance
+Esperada: the crew member who is entirely responsible for the train
+Question: talk about charter
+T.I.A: a governmental means of granting rights franchises and privileges to such . . privileges to such
+Esperada: a governmental means of granting rights franchises and privileges to such .
+Question: conceptualize incentive per diem
 T.I.A: the industry pushed railroads to buy new freight cars with the enticement of payments for doing so so
 Esperada: the industry pushed railroads to buy new freight cars with the enticement of payments for doing so
-Question: talk about mixed train
-T.I.A: a train hauling both freight and passengers maintenance costs of handling for freight trains
-Esperada: a train hauling both freight and passengers
-Question: talk about lading
-T.I.A: refers to the cargo or freight the railroad is hauling a rail line in of way and
-Esperada: refers to the cargo or freight the railroad is hauling
-Question: what is engineer
-T.I.A: person responsible for the operation of the locomotive the final and most powerful position on the locomotive s
-Esperada: person responsible for the operation of the locomotive
-Question: talk about cog railroad
-T.I.A: cog railroads are capable of traversing incredible grades and to do so they use toothed wheels the toothed
-Esperada: cog railroads are capable of traversing incredible grades and to do so they use toothed wheels
-Question: conceptualize dump the air
-T.I.A: meaning to apply the air brakes in a siding in the air brakes and nearly
-Esperada: meaning to apply the air brakes
-Question: what is the definition of controlling interest
-T.I.A: owning enough stock in a corporation to control that corporation control control railroad s of another a
-Esperada: owning enough stock in a corporation to control that corporation
-Question: talk about doubleheading
-T.I.A: using two locomotives independently to move a train in a siding train in no
-Esperada: using two locomotives independently to move a train
-Question: lcl is
-T.I.A: short for less than carload freight traffic railroad labor union created in that
-Esperada: short for less than carload freight traffic
-Question: what is mixed train
-T.I.A: a train hauling both freight and passengers maintenance costs of handling for freight trains
-Esperada: a train hauling both freight and passengers
-Question: what is the definition of consignee
-T.I.A: one who receives a freight shipment of cars and their lading when moving over a distance of one
-Esperada: one who receives a freight shipment
-Question: what is the definition of hostler
-T.I.A: person responsible for the operation of the locomotive and most powerful position on the locomotive s throttle
-Esperada: person responsible for the operation of the locomotive
-Question: conceptualize mars light
-T.I.A: a company owned or controlled by another a railroad union created in the us
-Esperada: trademark name referred to an auxiliary headlight
-Question: containers on flatcar is
-T.I.A: describe a type of train movement which hauls shipping containers train hauls shipping containers on
-Esperada: describe a type of train movement which hauls shipping containers
-Question: define containers on flatcar
-T.I.A: describe a type of train movement which hauls shipping containers train hauls shipping containers on
-Esperada: describe a type of train movement which hauls shipping containers
-Question: what is doubleheading
-T.I.A: using two locomotives independently to move a train in a siding train in a
-Esperada: using two locomotives independently to move a train
-Question: belt line is
-T.I.A: refers to a railroad that operates exclusively in and or around a large city .
-Esperada: refers to a railroad that operates exclusively in and or around a large city
-Question: dual mode is
-T.I.A: a locomotive which can operate conventionally as a locomotive or as an electric a train in two
-Esperada: a locomotive which can operate conventionally as a locomotive or as an electric
-Question: what is belt line
-T.I.A: refers to a railroad that operates exclusively in and or around a large city railroad for
-Esperada: refers to a railroad that operates exclusively in and or around a large city
-Question: talk about bulk
-T.I.A: the assimilation of one or more corporations by another a special well car the main line terms
-Esperada: commodities such as grain
-Question: talk about availability
-T.I.A: when a locomotive is free to be used in revenue service and down for maintenance work a train
-Esperada: when a locomotive is free to be used in revenue service and down for maintenance work
-Question: what is the definition of doubleheading
-T.I.A: using two locomotives independently to move a train in a siding train in a
-Esperada: using two locomotives independently to move a train
-Question: talk about profile
-T.I.A: this term illustrates graphically the layout of a rail line in terms of its grades grades and to
-Esperada: this term illustrates graphically the layout of a rail line in terms of its grades
-Question: form d is
-T.I.A: a track warrant used only be railroads in the eastern us a train in low sulfur coal
+Question: define slack action
+T.I.A: the result of give in each coupled car in a train that can sometimes be quite violent
+Esperada: the result of give in each coupled car in a train that can sometimes be quite violent
+Question: define restricted speed
+T.I.A: this term describes the operating speed an engineer must adhere to adhere to grades
+Esperada: this term describes the operating speed an engineer must adhere to
+Question: what is form d
+T.I.A: a track warrant used only be railroads in the eastern us a particular section of track eastern
 Esperada: a track warrant used only be railroads in the eastern us
-Question: what is joint operation
-T.I.A: refers to operating two railroads as one but retain each railroad s board of directors in a but
-Esperada: refers to operating two railroads as one but retain each railroad s board of directors
-Question: what is the definition of interurban
-T.I.A: a termed applied to electrically powered commuter of paper train device in its way helping
-Esperada: a termed applied to electrically powered commuter
-Question: lignite is
-T.I.A: refers to low quality coal a train in low sulfur coal train
-Esperada: refers to low quality coal
-Question: what is bridge route
-T.I.A: a railroad which has more bridge traffic operating over its rails than terminating originating traffic traffic two
-Esperada: a railroad which has more bridge traffic operating over its rails than terminating originating traffic
-Question: define highball
-T.I.A: the signal to operate the train at full speed train in low sulfur coal
-Esperada: the signal to operate the train at full speed
-Question: derail is
-T.I.A: meaning to leave the rails terms of its grades and wyoming that is extremely rich in low
-Esperada: meaning to leave the rails
-Question: what is the definition of overhead traffic
-T.I.A: it is freight received from one railroad to be moved by a second railroad for delivery to a third
-Esperada: it is freight received from one railroad to be moved by a second railroad for delivery to a third
-Question: define charter
-T.I.A: a governmental means of granting rights franchises and privileges to such . . .
-Esperada: a governmental means of granting rights franchises and privileges to such .
-Question: conceptualize marker
-T.I.A: see eot device of paper train orders were once written on a single tracked line
-Esperada: see eot device
-Question: talk about marker
-T.I.A: see eot device of paper train device in a special well car the main line terms
-Esperada: see eot device
-Question: what is cp
-T.I.A: short for control point on a railroad between a .m . and p .m railroad for
+Question: what is in the hole
+T.I.A: describe when a train is in a siding to such .
+Esperada: describe when a train is in a siding
+Question: conceptualize granger roads
+T.I.A: the midwestern railroads that earned a substantial portion of the earnings from america s breadbasket breadbasket
+Esperada: the midwestern railroads that earned a substantial portion of the earnings from america s breadbasket
+Question: talk about in the hole
+T.I.A: describe when a train is in a siding to such .
+Esperada: describe when a train is in a siding
+Question: conceptualize receivership
+T.I.A: during bankruptcy proceedings a corporation that is being managed by a receiver receiver not toothed .
+Esperada: during bankruptcy proceedings a corporation that is being managed by a receiver
+Question: what is the definition of wrong side failure
+T.I.A: a failure that reduces or removes the protection given by signalling equipment . equipment .
+Esperada: a failure that reduces or removes the protection given by signalling equipment .
+Question: talk about wheel slip
+T.I.A: similar to any other type of wheel slip condition other to slip condition
+Esperada: similar to any other type of wheel slip condition
+Question: talk about extra board
+T.I.A: the group of employees not assigned to normal runs adhere to so that they can safely
+Esperada: the group of employees not assigned to normal runs
+Question: talk about tows
+T.I.A: a short for train operated warning system operated system operated system
+Esperada: a short for train operated warning system
+Question: spot a car is
+T.I.A: to switch a freight car into a particular location for loading unloading . o . o .
+Esperada: to switch a freight car into a particular location for loading unloading .
+Question: what is sit
+T.I.A: stands for storage in transit such as coal or ship not including extra
+Esperada: stands for storage in transit
+Question: what is ude
+T.I.A: short for undesired emergency this acronym describes when the air pressure is released within the air brake system
+Esperada: short for undesired emergency this acronym describes when the air pressure is released within the air brake system
+Question: what is hogger
+T.I.A: slang for locomotive engineer to control which services
+Esperada: slang for locomotive engineer
+Question: high rail vehicle is
+T.I.A: a standard pickup with flanged wheels mounted to the frame that can be extended to operate on the tracks
+Esperada: a standard pickup with flanged wheels mounted to the frame that can be extended to operate on the tracks
+Question: what is the definition of hours of service law
+T.I.A: is a federal law mandating employees can only be on duty hours at a time at a time
+Esperada: is a federal law mandating employees can only be on duty hours at a time
+Question: define mars light
+T.I.A: trademark name referred to an auxiliary headlight which services to the general public
+Esperada: trademark name referred to an auxiliary headlight
+Question: stabbing is
+T.I.A: refers to a train that is not expected . . not p .
+Esperada: refers to a delayed train that is not expected .
+Question: what is eot device
+T.I.A: short for end of train device associated with the burlington . not including extra
+Esperada: short for end of train device
+Question: per diem is
+T.I.A: a latin term that means per day wheels to so that they can safely clear
+Esperada: a latin term that means per day
+Question: define tpws
+T.I.A: train protection and warning system which reduce the protection given by signalling equipment .
+Esperada: train protection and warning system
+Question: talk about incentive per diem
+T.I.A: the industry pushed railroads to buy new freight cars with the enticement of payments for doing so so
+Esperada: the industry pushed railroads to buy new freight cars with the enticement of payments for doing so
+Question: what is the definition of single line haul
+T.I.A: refers to a shipment over only one railroad . available . available . available . available
+Esperada: refers to a shipment over only one railroad .
+Question: what is transit
+T.I.A: a term that refers to commuter rail operations usually hauling passengers from urban to suburban settings and vice versa
+Esperada: a term that refers to commuter rail operations usually hauling passengers from urban to suburban settings and vice versa
+Question: what is posa
+T.I.A: a short for proceed on sight authority telling them which has been barred from
+Esperada: a short for proceed on sight authority
+Question: adjacent line is
+T.I.A: a line or siding next to the line you are on to operate
+Esperada: a line or siding next to the line you are on
+Question: what is the definition of affiliate
+T.I.A: a company owned or controlled by another
+Esperada: a company owned or controlled by another
+Question: what is meet
+T.I.A: occurs when two trains pass one another on a single tracked line board of directors control
+Esperada: occurs when two trains pass one another on a single tracked line
+Question: what is crossbuck
+T.I.A: the x shaped sign found just before a road crosses railroad tracks tracks tracks not
+Esperada: the x shaped sign found just before a road crosses railroad tracks
+Question: work train is
+T.I.A: a train that does not earn revenue and usually used by railroads for maintenance of way work . .
+Esperada: a train that does not earn revenue and usually used by railroads for maintenance of way work .
+Question: define bulk
+T.I.A: commodities such as grain simply not powerful such as grain such as grain
+Esperada: commodities such as grain
+Question: what is the definition of eot device
+T.I.A: short for end of train device associated with the burlington . not including extra
+Esperada: short for end of train device
+Question: conceptualize hog law
+T.I.A: is a federal law mandating employees can only be on duty hours at a time at time at
+Esperada: is a federal law mandating employees can only be on duty hours at a time
+Question: talk about haulage
+T.I.A: a railroad s traffic hauled by another railroad between two points points points not toothed points
+Esperada: a railroad s traffic hauled by another railroad between two points
+Question: what is the definition of nominal
+T.I.A: rating of locomotive even if mechanical troubles troubles to rating mechanical troubles troubles to
+Esperada: rating of locomotive even if mechanical troubles
+Question: define name train
+T.I.A: a passenger trains during the days when the private railroads operated them them entirely entirely train that
+Esperada: a passenger trains during the days when the private railroads operated them
+Question: conceptualize roadmaster
+T.I.A: one railroad for be railroads in the eastern brake line not including extra tracks not
+Esperada: one who is responsible for railroad track maintenance .
+Question: define truck
+T.I.A: the wheel axle frame assembly under each end of a car or locomotive .
+Esperada: the wheel axle frame assembly under each end of a car or locomotive .
+Question: what is stack train
+T.I.A: the slang term for a train made up entirely of containers stacked two deep per car . deep
+Esperada: the slang term for a train made up entirely of containers stacked two deep per car .
+Question: conceptualize controlling interest
+T.I.A: owning enough stock in a corporation to control that corporation control control control control control
+Esperada: owning enough stock in a corporation to control that corporation
+Question: conceptualize truck
+T.I.A: the wheel axle frame assembly under each end of a car or locomotive .
+Esperada: the wheel axle frame assembly under each end of a car or locomotive .
+Question: conceptualize clearance diagram
+T.I.A: a diagram the car and locomotive type and size a particular rail line not including extra tracks
+Esperada: a diagram the car and locomotive type and size a particular rail line
+Question: define bi directional line
+T.I.A: a line on which the signalling allows trains to run in both directions . run
+Esperada: a line on which the signalling allows trains to run in both directions .
+Question: what is the definition of road number
+T.I.A: the digits used to identifying a locomotive . o . o . o . o .
+Esperada: the digits used to identifying a locomotive .
+Question: knuckle is
+T.I.A: the free moving part of a coupler that actually keeps cars and locomotives mated to one another
+Esperada: the free moving part of a coupler that actually keeps cars and locomotives mated to one another
+Question: conceptualize section hand
+T.I.A: a general track laborer assigned to a section gang . ahead . ahead .
+Esperada: a general track laborer assigned to a section gang .
+Question: talk about terminal
+T.I.A: the term describing areas where railroads make up assemble and dispatch trains telling them sequentially their orders if any
+Esperada: the term describing areas where railroads make up assemble and dispatch trains
+Question: conceptualize ton mile
+T.I.A: the movement of one ton of freight a distance of one mile a standard transportation industry measure .
+Esperada: the movement of one ton of freight a distance of one mile a standard transportation industry measure .
+Question: conceptualize extra board
+T.I.A: the group of employees not assigned to normal runs to runs they can toothed to
+Esperada: the group of employees not assigned to normal runs
+Question: define automatic equipment identification
+T.I.A: it is meant as a tracking system for cars not warning system
+Esperada: it is meant as a tracking system for cars
+Question: talk about ton mile
+T.I.A: the movement of one ton of freight a distance of one mile a standard transportation industry measure .
+Esperada: the movement of one ton of freight a distance of one mile a standard transportation industry measure .
+Question: define cp
+T.I.A: short for control point on a railroad control control control
 Esperada: short for control point on a railroad
+Question: talk about switched off
+T.I.A: electrical equipment is isolated and separated from all sources of supply
+Esperada: electrical equipment that is disconnected and separated from all sources of supply
+Question: define holding company
+T.I.A: a company that controls other companies through ownership companies other companies
+Esperada: a company that controls other companies through ownership
+Question: talk about gandy dancer
+T.I.A: one railroad can be all of the track property and roadbed . including
+Esperada: one who maintained the railroad track and right of way
+Question: what is the definition of ble
+T.I.A: short for brotherhood of locomotive engineers to so use toothed adhere to
+Esperada: short for brotherhood of locomotive engineers
+Question: define embargo
+T.I.A: when a railroad company temporarily shuts down a rail line not including extra tracks
+Esperada: when a railroad company temporarily shuts down a rail line
+Question: define stop signal
+T.I.A: a signal that can show a stop aspect or indication . section ahead
+Esperada: a signal that can show a stop aspect or indication .
+Question: what is no block line
+T.I.A: a line on which the signaller does not monitor the condition of the block section . not condition .
+Esperada: a line on which the signaller does not monitor the condition of the block section .
+Question: conceptualize transit
+T.I.A: a term that refers to commuter rail operations usually hauling passengers from urban to suburban settings and vice versa
+Esperada: a term that refers to commuter rail operations usually hauling passengers from urban to suburban settings and vice versa
+Question: what is switched off
+T.I.A: electrical equipment is isolated and separated from all sources of supply
+Esperada: electrical equipment that is disconnected and separated from all sources of supply
+Question: dual mode is
+T.I.A: a locomotive which can operate conventionally as a locomotive or as an electric as a locomotive or as
+Esperada: a locomotive which can operate conventionally as a locomotive or as an electric
+Question: define line haul railroad
+T.I.A: a railroad that operates through freight from one point to another and is distinguished from switching and terminal railroads
+Esperada: a railroad that operates through freight from one point to another and is distinguished from switching and terminal railroads
+Question: what is the definition of automatic equipment identification
+T.I.A: it is meant as a tracking system for cars not warning system
+Esperada: it is meant as a tracking system for cars
+Question: what is gandy dancer
+T.I.A: one railroad can be all of the track property and roadbed . including
+Esperada: one who maintained the railroad track and right of way
+Question: rolling stock is
+T.I.A: usually refers to freight and passenger cars but also includes locomotives . also includes locomotives . o .
+Esperada: usually refers to freight and passenger cars but also includes locomotives .
+Question: talk about deadhead
+T.I.A: meaning to move in a train but in no way helping helping not toothed to way helping
+Esperada: meaning to move in a train but in no way helping
+Question: what is the definition of terminal railroad
+T.I.A: usually operate within large cities are term and dispatch trains areas make and dispatch trains are
+Esperada: usually operate within large cities
+Question: talk about eot device
+T.I.A: short for end of train device associated with the burlington . not including extra
+Esperada: short for end of train device
+Question: define posa
+T.I.A: a short for proceed on sight authority telling them which has been barred from
+Esperada: a short for proceed on sight authority
+Question: what is company owned railroad
+T.I.A: a railroad s stock controlled by a company and not individuals not individuals
+Esperada: a railroad s stock controlled by a company and not individuals
+Question: what is the definition of departure yard
+T.I.A: departure yards assemble cuts of cars to ready them for an outbound train not toothed to them
+Esperada: departure yards assemble cuts of cars to ready them for an outbound train
+Question: conceptualize knuckle
+T.I.A: the free moving part of a coupler that actually keeps cars and locomotives mated to one another
+Esperada: the free moving part of a coupler that actually keeps cars and locomotives mated to one another
+Question: conceptualize charter
+T.I.A: a governmental means of granting rights franchises and privileges to such . . privileges to such
+Esperada: a governmental means of granting rights franchises and privileges to such .
+Question: talk about derating
+T.I.A: changing the locomotive s prime mover to improve fuel efficiency or lower maintenance costs ship
+Esperada: changing the locomotive s prime mover to improve fuel efficiency or lower maintenance costs
+Question: conceptualize bi directional line
+T.I.A: a line on which the signalling allows trains to run in both directions . run
+Esperada: a line on which the signalling allows trains to run in both directions .
+Question: conceptualize wayfreight
+T.I.A: a term describing a local freight train often associated with the burlington . o . o .
+Esperada: a term describing a local freight train often associated with the burlington .
+Question: conceptualize double stack
+T.I.A: meaning to stack one container on top of another in a special well car not well
+Esperada: meaning to stack one container on top of another in a special well car
+Question: what is prb
+T.I.A: short for powder river basin powder powder basin powder powder basin powder powder basin
+Esperada: short for powder river basin
+Question: what is the definition of industrial railroad
+T.I.A: railroads owned exclusively by industries merely to move cars around and within their property wheels
+Esperada: railroads owned exclusively by industries merely to move cars around and within their property
+Question: define crossbuck
+T.I.A: the x shaped sign found just before a road crosses railroad tracks tracks tracks
+Esperada: the x shaped sign found just before a road crosses railroad tracks
+Question: zombie is
+T.I.A: a slang term describing the reuse of a locomotive s frame wheels to operate the train
+Esperada: a slang term describing the reuse of a locomotive s frame
+Question: what is tows
+T.I.A: a short for train operated warning system operated system operated system
+Esperada: a short for train operated warning system
+Question: junction signal is
+T.I.A: a signal that controls more than one running route section ahead . o . o
+Esperada: a signal that controls more than one running route
+Question: talk about cofc
+T.I.A: short for containers on flatcar which improve fuel efficiency or lower maintenance costs
+Esperada: short for containers on flatcar
+Question: define first trick
+T.I.A: refers to the day s first work shift between a .m . and p .m shift between a .m
+Esperada: refers to the day s first work shift between a .m . and p .m
+Question: conceptualize profile
+T.I.A: this term illustrates graphically the layout of a rail line in terms of its grades grades to
+Esperada: this term illustrates graphically the layout of a rail line in terms of its grades
+Question: what is engineer
+T.I.A: person responsible for the operation of the locomotive telling them describes the locomotive
+Esperada: person responsible for the operation of the locomotive

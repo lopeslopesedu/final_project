@@ -210,7 +210,7 @@ class Data_set:
         with open(arquivo) as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=';')
             for row in csv_reader:
-                base.append([row[0], row[1]])
+                base.append([row[0], row[1][:-2]])
 
         self.pairs,base_teste = self.separar_treino_teste(base)
 
@@ -320,10 +320,10 @@ class Data_set:
         :param resultados:
         """
         print("->Salvando resultados_bleu")
-        now = datetime.now()
-        arquivo_resultado_bleu = os.path.join(self.corpus, "chatbot_resultados_bleu_"+str(now)+".txt")
-        with open(self.datafile_resultados, 'w', encoding='utf-8') as outputfile:
+        now = str(datetime.now().year)+"_"+str(datetime.now().month)+"_"+str(datetime.now().day)+"_"+str(datetime.now().hour)+"_"+str(datetime.now().minute)
+        arquivo_resultado_bleu = os.path.join(self.corpus, "result_bleu_"+str(now)+".txt")
+        with open(arquivo_resultado_bleu, 'w', encoding='utf-8') as outputfile:
             #writer = csv.writer(outputfile, delimiter=self.delimiter, lineterminator='\n')
             outputfile.write("A média do Bleu para esse teste/treino foi: "+str(media)+"\n")
             for pair in resultados:
-                outputfile.write(pair+"\n")
+                outputfile.write(str(pair)+"\n")
