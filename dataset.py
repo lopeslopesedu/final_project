@@ -176,14 +176,15 @@ class Data_set:
                                           lines, MOVIE_CONVERSATIONS_FIELDS)
 
         self.pairs = []
-
+        base =[]
         print("->Gravando perguntas e respostas gerais")
         with open(self.datafile, 'w', encoding='utf-8') as outputfile:
             writer = csv.writer(outputfile, delimiter=self.delimiter, lineterminator='\n')
             for pair in self.__extrair_pares(conversations):
                 self.pairs.append(pair)
+                base.append([pair[0], pair[1][:-1]])
             self.pairs = self.pairs[:self.tam_base_geral]
-            base_teste = self.separar_treino_teste()
+            self.pairs, base_teste = self.separar_treino_teste(base)
             for pair in self.pairs:
                 writer.writerow(pair)
 
@@ -212,9 +213,16 @@ class Data_set:
             for row in csv_reader:
                 base.append([row[0], row[1][:-2]])
 
-        self.pairs,base_teste = self.separar_treino_teste(base)
+        pares, base_teste = self.separar_treino_teste(base)
+        self.pairs += pares
+        #self.pairs,base_teste = self.separar_treino_teste(base)
 
-        tipo_abertura_arquivo = "w"
+        #tipo_abertura_arquivo = "w"
+
+        if (self.usar_base_geral):
+            tipo_abertura_arquivo = "a"
+        else:
+            tipo_abertura_arquivo = "w"
 
         print("->Gravando perguntas e respostas especialistas")
         with open(self.datafile, tipo_abertura_arquivo, encoding='utf-8') as outputfile:
@@ -295,7 +303,7 @@ class Data_set:
         Por fim prepara os dados para processamento pelo modelo.
         """
         if self.usar_base_geral==True :
-            #self.__carregar_base_geral()
+            self.__carregar_base_geral()
             self.__carregar_base_geral_dialogpt()
         if self.usar_base_especialista==True :
             self.__carregar_base_especialista()

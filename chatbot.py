@@ -49,6 +49,7 @@ class Chatbot:
         self.pontuacao_bleu = []
         self.resultados = []
         self.resultado_computar_metricas = []
+        self.rede = "GRU"
 
 
     #Métodos privados de treinamento
@@ -334,10 +335,10 @@ class Chatbot:
         # Iniciando o  word embeddings
         self.embedding = nn.Embedding(self.dataset.voc.num_words, self.hidden_size)
         # Iniciando o encoder e decoder models
-        self.encoder = EncoderRNN(self.hidden_size, self.embedding, self.encoder_n_layers, self.dropout)
+        self.encoder = EncoderRNN(self.hidden_size, self.embedding, self.encoder_n_layers, self.dropout,self.rede)
         self.decoder = LuongAttnDecoderRNN(self.attn_model, self.embedding,
                                            self.hidden_size, self.dataset.voc.num_words,
-                                           self.decoder_n_layers, self.dropout)
+                                           self.decoder_n_layers, self.dropout,self.rede)
         # Utilizando o equipamento necessário
         self.encoder = self.encoder.to(self.device)
         self.decoder = self.decoder.to(self.device)

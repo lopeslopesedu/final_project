@@ -1,15 +1,19 @@
 import torch.nn as nn
 class EncoderRNN(nn.Module):
-    def __init__(self, hidden_size, embedding, n_layers=1, dropout=0):
+    def __init__(self, hidden_size, embedding, n_layers=1, dropout=0,rede=""):
         super(EncoderRNN, self).__init__()
         self.n_layers = n_layers
         self.hidden_size = hidden_size
         self.embedding = embedding
+        self.rede = rede
 
         # Initialize GRU; the input_size and hidden_size params are both set to 'hidden_size'
         #   because our input size is a word embedding with number of features == hidden_size
-        self.gru = nn.GRU(hidden_size, hidden_size, n_layers,
-                          dropout=(0 if n_layers == 1 else dropout), bidirectional=True)
+        if(self.rede=="GRU"):
+            self.gru = nn.GRU(hidden_size, hidden_size, n_layers,dropout=(0 if n_layers == 1 else dropout), bidirectional=True)
+        else:
+            self.gru = nn.LSTM(hidden_size, hidden_size, n_layers, dropout=(0 if n_layers == 1 else dropout),
+                          bidirectional=True)
 
     def forward(self, input_seq, input_lengths, hidden=None):
         # Convert word indexes to embeddings
