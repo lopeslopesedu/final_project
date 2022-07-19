@@ -303,7 +303,7 @@ class Data_set:
         Por fim prepara os dados para processamento pelo modelo.
         """
         if self.usar_base_geral==True :
-            self.__carregar_base_geral()
+            #self.__carregar_base_geral()
             self.__carregar_base_geral_dialogpt()
         if self.usar_base_especialista==True :
             self.__carregar_base_especialista()

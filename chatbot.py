@@ -44,7 +44,7 @@ class Chatbot:
         self.teacher_forcing_ratio = 1.0
         self.learning_rate = 0.0001
         self.decoder_learning_ratio = 5.0
-        self.n_iteration = 4000
+        self.n_iteration = 2000
         self.avg_pontuacao_bleu = 0
         self.pontuacao_bleu = []
         self.resultados = []
